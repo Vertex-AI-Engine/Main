@@ -7,7 +7,7 @@ Vertex is a powerful, modular, and highly extensible framework designed for deve
 ## Contract Address and Development Funding
 This project is powered by a single, official smart contract address. Please ensure that you interact only with the following address to avoid fraud or misrepresentation:
 
-Contract Address: 
+Contract Address: GJPidRr6hUL6RELTkoGYz64wtL877BzfiZHTEiJ9pump
 -----------------------------------
 
 All development and maintenance of this project are funded exclusively through the creator's wallet associated with the token.
